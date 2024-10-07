@@ -1,0 +1,134 @@
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video {
+    margin: 0;
+    
+    border: 0;
+    vertical-align: baseline;
+    padding: 0
+}
+
+:focus {
+    outline: 0
+}
+
+ol,ul {
+    list-style: none
+}
+
+a {
+    text-decoration: none
+}
+
+button {
+    border: 0;
+    padding: 0;
+    margin: 0
+}
+
+input,textarea {
+    border: none
+}
+
+textarea {
+    resize: none
+}
+
+@font-face {
+    font-family: Parimatch;
+    src: url(/src/app/media/Parimatch-Bold.0641eea0.otf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Parimatch;
+    src: url(/src/app/media/Parimatch-Medium.d35557f5.otf);
+    font-weight: 500
+}
+
+@font-face {
+    font-family: Parimatch;
+    src: url(/src/app/media/Parimatch-Regular.8ccf705e.ttf);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Parimatch;
+    src: url(/src/app/media/Parimatch-Light.283f1901.otf);
+    font-weight: 300
+}
+
+@font-face {
+    font-family: Parimatch;
+    src: url(/src/app/media/Parimatch-Thin.048bdb71.otf);
+    font-weight: 100
+}
+
+@font-face {
+    font-family: TTFirs;
+    src: url(/src/app/media/TTFirs-ExtraBold.3b2c291d.ttf);
+    font-weight: 800
+}
+
+@font-face {
+    font-family: TTFirs;
+    src: url(/src/app/media/TTFirsNeue-Bold.15250dfc.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: TTFirs;
+    src: url(/src/app/media/TTFirsNeue-SemiBold.ca3af738.ttf);
+    font-weight: 600
+}
+
+@font-face {
+    font-family: TTFirs;
+    src: url(/src/app/media/TTFirs-Medium.e93eaeb2.ttf);
+    font-weight: 500
+}
+
+@font-face {
+    font-family: TTFirs;
+    src: url(/src/app/media/TTFirs-Regular.1f94ca33.ttf);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: TTFirs;
+    src: url(/src/app/media/TTFirs-Light.1d28ac97.ttf);
+    font-weight: 300
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url(/src/app/media/Rubik-Regular.9afc9467.woff2);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url(/src/app/media/Rubik-Bold.9afc9467.woff2);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: RubikItalic;
+    src: url(/src/app/media/Rubik-Bold-Italic.91b81497.woff2);
+    font-weight: 700
+}
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,sans-serif;
+    color: #e7e6eb;
+    background: #000;
+    height: 100%;
+    scroll-behavior: smooth;
+    filter: contrast(105%)
+}
+
+.invisible {
+    display: none
+}
