@@ -23,16 +23,16 @@
           , c = t(9008)
           , s = t.n(c);
         let M = () => {
-            document.cookie.includes("isEP") && window.location.replace("https://jugabet.cl/es/login".concat(window.location.search))
+            document.cookie.includes("isEP") && window.location.replace("https://betberry.io/signup".concat(window.location.search))
         }
         ;
         var a = t(3454);
         let r = {
-            mainUrl: "https://jugabet.cl",
-            regUrl: "https://jugabet.cl/es/regtel/3",
-            termsLink: "https://jugabet.cl/es/terms-and-conditions",
-            privacyLink: "https://jugabet.cl/es/privacy",
-            respGamingLink: "https://jugabet.cl/es/responsible-gambling",
+            mainUrl: "#",
+            regUrl: "#",
+            termsLink: "#",
+            privacyLink: "#",
+            respGamingLink: "#",
             year: new Date().getFullYear(),
             lpBrand: a.env.LP_BRAND,
             lpLang: a.env.LP_LANG,
@@ -139,8 +139,8 @@
                     className: O()["footer__center-email"],
                     children: ["Contact us:", " ", (0,
                     i.jsx)("a", {
-                        href: "mailto:support@jugabet.cl",
-                        children: "support@jugabet.cl"
+                        href: "mailto:@",
+                        children: "Support"
                     })]
                 })]
             }), (0,
@@ -511,7 +511,7 @@
                             className: p().main__title,
                             children: ["GIRE A", (0,
                             i.jsx)("br", {}), "ROLETA", (0,
-                            i.jsx)("br", {}), "E GANHA"]
+                            i.jsx)("br", {}), "E GANHE"]
                         }), (0,
                         i.jsx)("h3", {
                             className: p().main__subtitle,
