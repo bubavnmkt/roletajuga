@@ -76,7 +76,7 @@
                 children: (0,
                 i.jsx)("img", {
                     src: E(),
-                    alt: "Jugabet logo"
+                    alt: "Betberry logo"
                 })
             }), (0,
             i.jsx)("div", {
@@ -116,7 +116,7 @@
                 children: (0,
                 i.jsxs)("p", {
                     className: O()["footer__left-copyright"],
-                    children: ["\xa9 jugabet ", (0,
+                    children: ["\xa9 Betber ", (0,
                     i.jsx)("strong", {
                         children: r.year
                     })]
@@ -128,19 +128,19 @@
                 i.jsx)("a", {
                     href: "".concat(r.respGamingLink),
                     className: O()["footer__center-link"],
-                    children: "Juego Responsable"
+                    children: "Jogo Responsável"
                 }), (0,
                 i.jsx)("a", {
                     href: "".concat(r.privacyLink),
                     className: O()["footer__center-link"],
-                    children: "Pol\xedtica de Privacidad"
+                    children: "Politica de Privacidade"
                 }), (0,
                 i.jsxs)("p", {
                     className: O()["footer__center-email"],
-                    children: ["Contact us:", " ", (0,
+                    children: ["Nos Contate:", " ", (0,
                     i.jsx)("a", {
                         href: "mailto:@",
-                        children: "Support"
+                        children: "Suporte"
                     })]
                 })]
             }), (0,
@@ -638,9 +638,7 @@
             "modal--winner": "Modal_modal--winner__O8rt8",
             "modal__btn-main": "Modal_modal__btn-main__GbOSJ",
             "modal__btn-close": "Modal_modal__btn-close__RXqmk",
-            "modal__btn-main__bg": "Modal_modal__btn-main__bg__kcodP",
-            "modal__btn-main__bg--default": "Modal_modal__btn-main__bg--default__PG5TG",
-            "modal__btn-main__bg--hover": "Modal_modal__btn-main__bg--hover__l7z7S"
+            "modal__btn-main__bg": "Modal_modal__btn-main__bg__kcodP"
         }
     },
     5075: function(e) {
