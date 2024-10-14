@@ -116,7 +116,7 @@
                 children: (0,
                 i.jsxs)("p", {
                     className: O()["footer__left-copyright"],
-                    children: ["\xa9 Betber ", (0,
+                    children: ["\xa9 Betberry ", (0,
                     i.jsx)("strong", {
                         children: r.year
                     })]
@@ -149,7 +149,7 @@
             }), (0,
             i.jsx)("p", {
                 className: O().footer__description,
-                children: 'EL SITIO WEB ES OPERADO POR CASTIANES B.V. (REG. NUMBER 159965) CON DOMICILIO SOCIAL EN EMANCIPATIE BOULEVARD DOMINICO F. "DON" MARTINA 31, CURA\xc7AO. ESTE SERVICIO OPERA BAJO LA LICENCIA N\xba 87909 EMITIDA A NOMBRE DE CURA\xc7AO INTERACTIVE LICENSING N.V. , AUTORIZADA Y REGULADA POR EL GOBIERNO DE CURA\xc7AO. AGENTE DE PAGO: INSAILER HOLDINGS LTD (REG. NUMBER HE 430842) CON DOMICILIO SOCIAL EN DIONYSOS, 8, APOSTOLOS ANDREAS 3065, LIMASSOL, CHIPRE.'
+                children: 'TODOS OS DIREITOS RESERVADOS'
             })]
         })
           , U = {
@@ -823,7 +823,7 @@
         e.exports = "/src/app/images/btn-hover1-f3815dff41c218c8211a70e47831273a.png"
     },
     7259: function(e) {
-        e.exports = "/src/app/images/btnHover-win-6b0d41d7950a071dd8a02728aaf2f784.png"
+        e.exports = "./media/MAIS-PREMIOS.png"
     },
     998: function(e) {
         e.exports = "./media/MAIS-PREMIOS.png";
